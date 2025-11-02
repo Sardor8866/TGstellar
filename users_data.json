@@ -1,0 +1,156 @@
+{
+  "8118184388": {
+    "first_seen": "2025-10-08T11:23:29.744926",
+    "balance": 2502015289231350.5,
+    "level": 1,
+    "waiting_bet": false,
+    "waiting_mines": false,
+    "current_bet": 40,
+    "waiting_manual_mines_input": false,
+    "mines_game": {
+      "field": [
+        [
+          false,
+          true,
+          false,
+          false,
+          false
+        ],
+        [
+          false,
+          false,
+          false,
+          false,
+          false
+        ],
+        [
+          true,
+          false,
+          true,
+          false,
+          true
+        ],
+        [
+          false,
+          false,
+          false,
+          false,
+          false
+        ],
+        [
+          false,
+          false,
+          true,
+          false,
+          false
+        ]
+      ],
+      "opened": [
+        [
+          false,
+          false,
+          false,
+          false,
+          false
+        ],
+        [
+          false,
+          false,
+          true,
+          true,
+          false
+        ],
+        [
+          false,
+          false,
+          false,
+          false,
+          false
+        ],
+        [
+          true,
+          false,
+          false,
+          true,
+          false
+        ],
+        [
+          false,
+          false,
+          false,
+          false,
+          false
+        ]
+      ],
+      "score": 40,
+      "game_over": true,
+      "bet": 40,
+      "mines_count": 5
+    }
+  },
+  "7578341026": {
+    "first_seen": "2025-10-08T12:46:15.806085",
+    "balance": 0.0,
+    "level": 1
+  },
+  "8476835256": {
+    "first_seen": "2025-10-09T12:25:34.608161",
+    "balance": 9998.18,
+    "level": 1
+  },
+  "8114886285": {
+    "first_seen": "2025-10-09T14:46:28.595519",
+    "balance": 0.0,
+    "level": 1
+  },
+  "7513675371": {
+    "first_seen": "2025-10-12T07:26:11.723201",
+    "balance": 102.89,
+    "level": 1
+  },
+  "5914518735": {
+    "first_seen": "2025-10-17T02:43:37.715281",
+    "balance": 0,
+    "level": 1
+  },
+  "8451292734": {
+    "first_seen": "2025-10-20T12:05:27.935475",
+    "balance": 0.0,
+    "level": 1
+  },
+  "7774777046": {
+    "first_seen": "2025-10-20T15:27:52.283111",
+    "balance": 0.77,
+    "level": 1
+  },
+  "7229812245": {
+    "first_seen": "2025-10-21T13:45:26.739473",
+    "balance": 0,
+    "level": 1
+  },
+  "6944609801": {
+    "first_seen": "2025-10-21T14:10:10.123744",
+    "balance": 1.0000000000000092e+16,
+    "level": 1
+  },
+  "7537302356": {
+    "first_seen": "2025-10-26T04:35:02.563467",
+    "balance": 0.0,
+    "level": 1
+  },
+  "1271681017": {
+    "first_seen": "2025-10-27T10:05:13.658155",
+    "balance": 35.13,
+    "level": 1
+  },
+  "7951423701": {
+    "first_seen": "2025-10-27T13:50:45.302910",
+    "balance": 0,
+    "level": 1
+  },
+  "7016300190": {
+    "first_seen": "2025-10-29T04:50:55.753612",
+    "balance": 0,
+    "level": 1
+  }
+}
